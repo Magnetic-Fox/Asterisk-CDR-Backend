@@ -1,4 +1,4 @@
-# Asterisk Billing Backend
+# Asterisk CDR Backend
 
 This repository contains very simple backend for retrieving billing information from Asterisk CDR database.
 It's build to support user-owned phone numbers, which information is stored in additional database.
