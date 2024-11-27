@@ -1,0 +1,21 @@
+FallbackResource /AsteriskPBX/api/index.php
+
+<Files "settings.php">
+        Order Allow,Deny
+        Deny from all
+</Files>
+
+<Files "restconst.php">
+        Order Allow,Deny
+        Deny from all
+</Files>
+
+<Files "restprocs.php">
+        Order Allow,Deny
+        Deny from all
+</Files>
+
+<Files "mysql-connect.php">
+	Order Allow,Deny
+	Deny from all
+</Files>
